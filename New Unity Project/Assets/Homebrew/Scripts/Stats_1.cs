@@ -54,6 +54,9 @@ public class Stats_1 : MonoBehaviour
             STR = Random.Range(3, 6);
         }
     }
+    private void Update()
+    {
+    }
 
     /*
     public void WarriorButton()

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Character1 : Stats_1
+public class Weapon : MonoBehaviour
 {
-    string[] ClassTypes = { "Warrior", "Mage" };
+
 }

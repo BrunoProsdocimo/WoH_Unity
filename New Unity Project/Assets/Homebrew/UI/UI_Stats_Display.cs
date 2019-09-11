@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class UI_Stats_Display : MonoBehaviour
 {
+    //Reference for the class that holds the parameters
     public Stats_1 DisplayStats;
 
 
